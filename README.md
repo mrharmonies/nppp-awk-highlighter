@@ -1,5 +1,5 @@
 # nppp-awk-highlighter
-**nppp-awk-highlighter** is a Awk/Gawk language syntax highlighter for Notepad++. **nppp-awk-highlighter** highlights **all Awk/Gawk Special Variables, Special Patterns, Numeric Functions, String Functions, I/O Functions, Time Functions, Bitwise Functions, Type Functions and I18N Functions (79 AWK keywords in total)**.
+**nppp-awk-highlighter** is a Awk/Gawk language syntax highlighter for Notepad++. **nppp-awk-highlighter** highlights **all Awk/Gawk Special Variables, Special Patterns, Numeric Functions, String Functions, I/O Functions, Time Functions, Bitwise Functions, Type Functions and I18N Functions (79 Awk/Gawk keywords in total)**.
 
 # To Use
 1. Open Notepad++
