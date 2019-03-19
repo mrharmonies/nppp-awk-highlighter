@@ -4,7 +4,7 @@
 # To Use
 1. Open Notepad++
 2. Go to **menu > Language > Define your language**
-3. Click** "Import.."**
+3. Click **"Import.."** button
 4. Select **"AWK.xml"**
 5. **Awk** is now appear in Notepad++ **Language** menu
 
